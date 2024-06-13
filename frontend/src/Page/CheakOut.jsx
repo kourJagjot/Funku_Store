@@ -118,7 +118,7 @@ const CheakOut = () => {
                   ))
                 ) : (
                   
-                  <h2> There are no items to checkout</h2>
+                  <h2> There are no items to checkout ! Please go to Home page...</h2>
                
                 
                 )}
